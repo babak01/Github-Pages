@@ -5,7 +5,7 @@ permalink: /OUR_TECH_STORY
 ---
 # OUR TECH STORY
 
-## John, Jane, Bob, and Alice: How We Created AmazingScript and the Amazing API
+## Babak, Jane, Bob, and Alice: How We Created AmazingScript and the Amazing API
 
 ![our-tech-story](images/1600x500_ffffff_3A5F0B_our-tech-story.png)
 

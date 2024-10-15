@@ -7,7 +7,7 @@ permalink: /MEET_THE_TEAM
 
 ![meet-the-team](images/1600x500_ffffff_5F9EA0_meet-the-team.png)
 
-## John Doe
+## Babak V-Ghaffari
 ![team-member-1](images/200x200_ffffff_00BFFF_xd.png)
 
 John is a software engineer with over 10 years of experience in the field. He has worked on several successful projects and enjoys hiking and playing tennis in his free time.
